@@ -32,20 +32,6 @@
 
 <header>🎵 music🎵</header>
 
-<div class="song">
-    <h3>أنا طبار الجماجم</h3>
-    <audio controls>
-        <source src="music.mp3" type="audio/mpeg">
-
-    </audio>
-</div>
-
-<div class="song">
-    <h3>شادي أيوب</h3>
-    <audio controls>
-        <source src="shadi.mp3" type="audio/mpeg">
-    </audio>
-</div>
 
 <div class="song">
     <h3>طلي هلي ياقمر الزمان</h3>
